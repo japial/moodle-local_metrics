@@ -28,7 +28,6 @@ foreach ($server_details as $k => $val) {
 	}
 };
 
-echo "------------------------------------------";
 echo "<br/>";
 
 echo "# Application metrics";
